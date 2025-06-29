@@ -8,5 +8,9 @@
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.2",
+    "borsh": "^2.0.0"
   }
 }
